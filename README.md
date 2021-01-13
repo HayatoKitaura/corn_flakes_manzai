@@ -51,3 +51,7 @@ rosrun corn_flakes tukkomi.py
 それ以外のボケをするとシンプルなつっこみが返ってきます。
 
 「ありがとうございました」で終了。
+
+## デモ動画
+
+[デモ動画](https://www.youtube.com/watch?v=hF-cH1ca8co)
