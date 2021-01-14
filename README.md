@@ -54,4 +54,4 @@ rosrun corn_flakes tukkomi.py
 
 ## デモ動画
 
-[デモ動画](https://www.youtube.com/watch?v=hF-cH1ca8co)
+[デモ動画](https://youtu.be/wB3zewX6SKg)
